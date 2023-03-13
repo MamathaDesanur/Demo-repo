@@ -1,4 +1,4 @@
-package gitmavenproject.GitDemomavenproject;
+package com.qa.utils;
 
 /**
  * Hello world!
